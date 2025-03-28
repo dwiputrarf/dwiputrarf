@@ -26,7 +26,7 @@
 ### 📬 Let's Connect!  
 <p align="center">
   <a href="https://linkedin.com/in/dwiputrarf"><img src="https://img.shields.io/badge/LinkedIn-dwiputrarf-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:dwiputrarf95@example.com"><img src="https://img.shields.io/badge/Email-dwiputrarf95@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:rizkyfebriantodwiputra@gmail.com"><img src="https://img.shields.io/badge/Email-rizkyfebriantodwiputra@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
