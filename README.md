@@ -9,7 +9,7 @@
 🚀 Passionate **Software Engineer** with expertise in:  
 - **Mobile Development** → `Kotlin`, `Java`, `React Native`  
 - **Frontend Development** → `React.js`, `Next.js`, `Tailwind CSS`  
-- **Backend Development** → `Node.js`, `Next.js`, `MySQL`  
+- **Backend Development** → `Node.js`, `Nest.js`, `MySQL`  
 
 🌍 Looking for opportunities in **Indonesia, Japan, Singapore, and beyond**.  
 🎨 **UI/UX Enthusiast** → Also skilled in design & user experience!  
